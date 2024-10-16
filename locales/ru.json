@@ -16,9 +16,9 @@
 		"last_x_hours": "Last %hours hours"
 	},
 	"statuses": {
-		"UP": "UP",
-		"DOWN": "DOWN",
-		"DEGRADED": "DEGRADED"
+		"UP": "Всё супер", #"UP",
+		"DOWN": "Не работает", #"DOWN",
+		"DEGRADED": "Что-то не работает", #"DEGRADED"
 	},
 	"incident": {
 		"identified": "Identified",
@@ -36,8 +36,8 @@
 		"theme": "Theme",
 		"theme_light": "Light",
 		"theme_dark": "Dark",
-		"today": "Today",
-		"90_day": "90 Day",
+		"today": "Сегодня", #Today",
+		"90_day": "90 дней", #"90 Day",
 		"share_desc": "Share this monitor using a link with others",
 		"badge_desc": "Get SVG badge for this monitor",
 		"embed_desc": "Embed this monitor using <script> or <iframe> in your app.",
@@ -48,8 +48,8 @@
 		"status_x_minute": "%status for %minute minute",
 		"status_x_minutes": "%status for %minutes minutes",
 		"status_x_hour_y_minute": "%status for %hours h and %minutes m",
-		"status_no_data": "No Data",
-		"status_ok": "Status OK",
+		"status_no_data": "Нет данных", #"No Data",
+		"status_ok": "Всё супер", #"Status OK",
 		"am": "am",
 		"pm": "pm"
 	},
