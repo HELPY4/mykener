@@ -12,12 +12,12 @@
       method: GET
       url: https://pve.helpy4.ru
 #  image: "/svelte.svg"
-- name: Хранилище фото и видео cloud.romax-host.ru:4444
-  description: Это аналог Google Photos - Immich. Регистрация бесплатна.
-  tag: "svelte-website"
-  api:
-      method: GET
-      url: https://cloud.romax-host.ru:4444
+#- name: Хранилище фото и видео cloud.romax-host.ru:4444
+#  description: Это аналог Google Photos - Immich. Регистрация бесплатна.
+#  tag: "svelte-website"
+#  api:
+#      method: GET
+#      url: https://cloud.romax-host.ru:4444
   image: "/svelte.svg"
 - name: Earth
   description: Our blue planet
