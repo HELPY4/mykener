@@ -32,7 +32,7 @@ footerHTML: |
     <a href="https://github.com/rajnandan1/kener" target="_blank" rel="noreferrer" class="font-medium underline underline-offset-4">
       Kener
     </a>
-    an open source status page system built with Svelte and TailwindCSS.
+    an open source status page system built with Svelte and TailwindCSS. Отредактировал и перевёл HELPY4 <ссылка на реп> для Romax Host. Работает на независимых серверах.
 i18n:
     defaultLocale: "ru"
     #defaultLocale: "en"
