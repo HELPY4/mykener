@@ -1,7 +1,7 @@
 {
 	"root": {
 		"ongoing_incidents": "Ongoing Incidents",
-		"availability_per_component": "Доступность каждого компонента Хостинга", //е
+		"availability_per_component": "Доступность каждого компонента Хостинга", /* е */
 		"other_monitors": "Other Monitors",
 		"no_monitors": "No monitors found",
 		"read_doc_monitor": "Read the documentation to add your first monitor",
