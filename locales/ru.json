@@ -1,7 +1,7 @@
 {
 	"root": {
 		"ongoing_incidents": "Ongoing Incidents",
-		"availability_per_component": "Availability per Component",
+		"availability_per_component": "Доступность каждого компонента Хостинга",
 		"other_monitors": "Other Monitors",
 		"no_monitors": "No monitors found",
 		"read_doc_monitor": "Read the documentation to add your first monitor",
@@ -18,7 +18,7 @@
 	"statuses": {
 		"UP": "Всё супер", #"UP",
 		"DOWN": "Не работает", #"DOWN",
-		"DEGRADED": "Что-то не работает", #"DEGRADED"
+		"DEGRADED": "Работает, но есть проблемы", #"DEGRADED"
 	},
 	"incident": {
 		"identified": "Identified",
@@ -53,5 +53,5 @@
 		"am": "am",
 		"pm": "pm"
 	},
-	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"] #интересная фича, можно букваризировать цифры или сделать фэйковые цифры
 }
