@@ -1,7 +1,7 @@
 {
 	"root": {
 		"ongoing_incidents": "Ongoing Incidents",
-		"availability_per_component": "Доступность каждого компонента Хостинга",
+		"availability_per_component": "Доступность каждого компонента Хостинга", //е
 		"other_monitors": "Other Monitors",
 		"no_monitors": "No monitors found",
 		"read_doc_monitor": "Read the documentation to add your first monitor",
@@ -16,9 +16,9 @@
 		"last_x_hours": "Last %hours hours"
 	},
 	"statuses": {
-		"UP": "Всё супер", #"UP",
-		"DOWN": "Не работает", #"DOWN",
-		"DEGRADED": "Работает, но есть проблемы", #"DEGRADED"
+		"UP": "Всё супер", //"UP",
+		"DOWN": "Не работает", //"DOWN",
+		"DEGRADED": "Работает, но есть проблемы", //"DEGRADED"
 	},
 	"incident": {
 		"identified": "Identified",
@@ -48,10 +48,10 @@
 		"status_x_minute": "%status for %minute minute",
 		"status_x_minutes": "%status for %minutes minutes",
 		"status_x_hour_y_minute": "%status for %hours h and %minutes m",
-		"status_no_data": "Нет данных", #"No Data",
-		"status_ok": "Всё супер", #"Status OK",
+		"status_no_data": "Нет данных", //"No Data",
+		"status_ok": "Всё супер", //"Status OK",
 		"am": "am",
 		"pm": "pm"
 	},
-	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"] #интересная фича, можно букваризировать цифры или сделать фэйковые цифры
+	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"] //интересная фича, можно букваризировать цифры или сделать фэйковые цифры
 }
