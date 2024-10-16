@@ -5,13 +5,13 @@
   api:
       method: GET
       url: https://panel.helpy4.ru
-- name: Сервер1
-  description: Описание
-  tag: "svelte-website"
-  api:
-      method: GET
-      url: https://cloud.romax-host.ru
-  image: "/svelte.svg"
+#- name: Сервер1
+#  description: Описание
+#  tag: "svelte-website"
+#  api:
+#      method: GET
+#      url: https://cloud.romax-host.ru
+#  image: "/svelte.svg"
 - name: Хранилище фото и видео cloud.romax-host.ru:4444
   description: Это аналог Google Photos - Immich. Регистрация бесплатна.
   tag: "svelte-website"
