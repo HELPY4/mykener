@@ -34,8 +34,8 @@ footerHTML: |
     </a>
     an open source status page system built with Svelte and TailwindCSS.
 i18n:
-    #defaultLocale: "ru"
-    defaultLocale: "en"
+    defaultLocale: "ru"
+    #defaultLocale: "en"
     locales:
         en: "English"
         hi: "हिन्दी"
