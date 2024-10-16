@@ -1,5 +1,5 @@
 - name: Сайт panel.helpy4.ru
-  description: Описание
+  description: Это сайт для управления игровыми серверами. Консоль, файлы, бэкапы - всё это тут.
   tag: "google-search"
   image: "/google.png"
   api:
@@ -13,7 +13,7 @@
       url: https://cloud.romax-host.ru
   image: "/svelte.svg"
 - name: Хранилище фото и видео cloud.romax-host.ru:4444
-  description: Описание
+  description: Это аналог Google Photos - Immich. Регистрация бесплатна.
   tag: "svelte-website"
   api:
       method: GET
