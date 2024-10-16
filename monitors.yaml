@@ -1,11 +1,18 @@
-- name: Панель panel.helpy4.ru
+- name: Сайт panel.helpy4.ru
   description: Описание
   tag: "google-search"
   image: "/google.png"
   api:
       method: GET
       url: https://panel.helpy4.ru
-- name: Онлайн-хранилка фото и видео cloud.romax-host.ru:4444
+- name: Сервер1
+  description: Описание
+  tag: "svelte-website"
+  api:
+      method: GET
+      url: https://cloud.romax-host.ru
+  image: "/svelte.svg"
+- name: Хранилище фото и видео cloud.romax-host.ru:4444
   description: Описание
   tag: "svelte-website"
   api:
@@ -17,10 +24,10 @@
   tag: "earth"
   defaultStatus: "UP"
   image: "/earth.png"
-- name: Frogment
-  description: A free openAPI spec editor and linter that breaks down your spec into fragments to make editing easier and more intuitive. Visit https://www.frogment.com
-  tag: "frogment"
-  image: "/frogment.png"
-  api:
-      method: GET
-      url: https://www.frogment.com
+#- name: Frogment
+#  description: A free openAPI spec editor and linter that breaks down your spec into fragments to make editing easier and more intuitive. Visit #https://www.frogment.com
+#  tag: "frogment"
+#  image: "/frogment.png"
+#  api:
+#      method: GET
+#      url: https://www.frogment.com
