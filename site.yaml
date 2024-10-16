@@ -1,4 +1,4 @@
-title: "Kener"
+title: "Romax Host Status"
 home: "/"
 logo: "/logo.png"
 github:
@@ -34,6 +34,7 @@ footerHTML: |
     </a>
     an open source status page system built with Svelte and TailwindCSS.
 i18n:
+    #defaultLocale: "ru"
     defaultLocale: "en"
     locales:
         en: "English"
@@ -41,4 +42,5 @@ i18n:
         zh-CN: "中文"
         ja: "日本語"
         vi: "Tiếng Việt"
+        ru: "Русский"
 theme: dark
