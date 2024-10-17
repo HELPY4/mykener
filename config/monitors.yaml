@@ -1,29 +1,29 @@
-- name: Сайт panel.helpy4.ru
-  description: Это сайт для управления игровыми серверами. Консоль, файлы, бэкапы - всё это тут.
+- name: Сайт 
+  description: panel.helpy4.ru Это сайт для управления игровыми серверами. Консоль, файлы, бэкапы - всё это тут.
   tag: "google-search"
   image: "/google.png"
   api:
       method: GET
       url: https://panel.helpy4.ru
-- name: Управление хостингом (без картинки)
-  description: Описание
+- name: Управление хостингом
+  description: https://pve.helpy4.ru
   tag: "svelte-website"
   api:
       method: GET
       url: https://pve.helpy4.ru
-#  image: "/svelte.svg"
-#- name: Хранилище фото и видео cloud.romax-host.ru:4444
-#  description: Это аналог Google Photos - Immich. Регистрация бесплатна.
-#  tag: "svelte-website"
-#  api:
-#      method: GET
-#      url: https://cloud.romax-host.ru:4444
   image: "/svelte.svg"
-- name: Earth
-  description: Our blue planet
-  tag: "earth"
-  defaultStatus: "UP"
-  image: "/earth.png"
+- name: Хранилище фото и видео
+  description: cloud.romax-host.ru:4444 Это аналог Google Photos - Immich. Регистрация бесплатна.
+  tag: "svelte-website"
+  api:
+      method: GET
+      url: https://cloud.romax-host.ru:4444
+  image: "/svelte.svg"
+#- name: Earth
+#  description: Our blue planet
+#  tag: "earth"
+#  defaultStatus: "UP"
+#  image: "/earth.png"
 #- name: Frogment
 #  description: A free openAPI spec editor and linter that breaks down your spec into fragments to make editing easier and more intuitive. Visit #https://www.frogment.com
 #  tag: "frogment"
